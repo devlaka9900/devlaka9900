@@ -1,26 +1,145 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34f90f8a-59aa-4827-a828-8e66e3d430ac/d9emfh6-516c9793-3f63-495e-b71f-d960c5dc10e1.png/v1/fill/w_1024,h_599,q_80,strp/diving_at_night_by_deadlycomics_d9emfh6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk5IiwicGF0aCI6IlwvZlwvMzRmOTBmOGEtNTlhYS00ODI3LWE4MjgtOGU2NmUzZDQzMGFjXC9kOWVtZmg2LTUxNmM5NzkzLTNmNjMtNDk1ZS1iNzFmLWQ5NjBjNWRjMTBlMS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.q61Iqy0Edxfd3uAafNdy-p26U3BIsurVldRgDOe_cok)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Lakshan Binura</h1>
-<h3 align="center">A Backend Engineer From Sri Lanka !!!</h3>
-<img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
+<!-- Profile README for github.com/devlaka9900 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devlaka9900&label=Profile%20views&color=0e75b6&style=flat" alt="devlaka9900" /> </p>
+<div align="center">
 
-- 💬 Ask me about **Python | C | .NET**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Binura%20Lakshan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Sri%20Lanka&descAlignY=58&descSize=18" alt="Header banner" />
 
-- 📫 How to reach me **lakshanbinura9900@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Binura+%F0%9F%91%8B;BSE+Computer+Software+Engineering;I+build+tools+with+Python+%F0%9F%90%8D;Backends+with+FastAPI+%26+Node.js+%E2%9A%99%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/devlaka9900)
 
-- ⚡ Fun fact **I Think I am Funny !!!**
+![Profile Views](https://komarev.com/ghpvc/?username=devlaka9900&label=Profile%20views&color=2c5364&style=flat-square)
+![Followers](https://img.shields.io/github/followers/devlaka9900?style=flat-square&color=2c5364)
+![Repos](https://img.shields.io/badge/public%20repos-10-4FC3F7?style=flat-square)
+![Open to work](https://img.shields.io/badge/hireable-yes-brightgreen?style=flat-square)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devlaka9900&show_icons=true&locale=en&layout=compact" alt="devlaka9900" /></p>
+## 👨‍💻 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devlaka9900&show_icons=true&locale=en" alt="devlaka9900" /></p>
+- 🎓 Student at the **Open University of Sri Lanka** — BSE Computer Software Engineering
+- 📍 Based in **Sri Lanka** 🇱🇰
+- 🛠️ I like building small, practical tools: scrapers, converters, desktop apps and web backends
+- 🌱 Currently sharpening my backend skills and version-control habits
+- 💬 Ask me about Python, web scraping, FastAPI or Express
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devlaka9900&" alt="devlaka9900" /></p>
+---
 
+## 🧰 Tech stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects _(click to expand)_
+
+<details>
+<summary><b>🐍 Python tools</b></summary>
+<br>
+
+| Project | What it does |
+|---|---|
+| [**ASX-Scraper-Tool**](https://github.com/devlaka9900/ASX-Scraper-Tool) | Website document scraper and automated analyzer |
+| [**Python-Secret-Text**](https://github.com/devlaka9900/Python-Secret-Text) | Minimal text encryption/decryption tool built with Tkinter |
+| [**Nostalgia-Journal**](https://github.com/devlaka9900/Nostalgia-Journal) | Creative standalone journalling application (EXE) |
+| [**XMLTOHTML**](https://github.com/devlaka9900/XMLTOHTML) | Minimal XML → HTML converter with defined logic and procedures |
+
+</details>
+
+<details>
+<summary><b>🌐 Web &amp; backend</b></summary>
+<br>
+
+| Project | What it does |
+|---|---|
+| [**Python-Simple-Social-Meadia-FastAPI**](https://github.com/devlaka9900/Python-Simple-Social-Meadia-FastAPI) | Backend-focused file-sharing social media web app |
+| [**NodeMore-BackEnd**](https://github.com/devlaka9900/NodeMore-BackEnd) | Node + Express backend module |
+| [**Web-Travel-SL**](https://github.com/devlaka9900/Web-Travel-SL) | Travel website for Sri Lanka (HTML) |
+| [**project-cinnamax**](https://github.com/devlaka9900/project-cinnamax) | Web project (HTML) |
+
+</details>
+
+<details>
+<summary><b>📚 Notes</b></summary>
+<br>
+
+| Project | What it is |
+|---|---|
+| [**Version-Controling-Notes**](https://github.com/devlaka9900/Version-Controling-Notes) | My personal notes on Git and version control |
+
+</details>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<a href="https://github.com/devlaka9900">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devlaka9900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/devlaka9900">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlaka9900&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</a>
+
+<img src="https://streak-stats.demolab.com?user=devlaka9900&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+</div>
+
+---
+
+## 🎲 Quick fun _(click to expand)_
+
+<details>
+<summary><b>💡 Random dev quote</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</div>
+
+_Refresh the page for a new one._
+
+</details>
+
+<details>
+<summary><b>🕹️ What should I build next?</b></summary>
+<br>
+
+Open an issue on any of my repos with an idea and I'll take a look:
+
+- [ ] A CLI version of the ASX scraper
+- [ ] Auth + likes for the FastAPI social app
+- [ ] Dark mode for Nostalgia-Journal
+- [ ] Your idea here 👉 [open an issue](https://github.com/devlaka9900/devlaka9900/issues/new)
+
+</details>
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-devlaka9900-181717?style=for-the-badge&logo=github)](https://github.com/devlaka9900)
+<!-- Add your own links, e.g. LinkedIn / email:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+-->
+
+<sub>⭐ If you like something here, a star is always appreciated!</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
+
+</div>
